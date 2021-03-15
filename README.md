@@ -18,6 +18,55 @@
 </p>
 
 
+## Requirements
+
+The source code of this project is written in **Flutter,Firebase,Java,Python**. 
+
+## Inspiration
+
+* Various fitness problems faced by people during lockdown.
+
+## What it does
+
+* It takes the photos of the meal the user uploads and calculate the calories automatically.
+* It also provides all the excercises for the uploaded diet sheet by experts.
+* The user can also access various blogs related to the diet and excercises followed.
+* The user can get the total calculations and charts by the end of the day.
+
+## Instructions to run
+
+## How to use
+ 
+ * Easy to use as it does not require much hastle so no need of much explanation.
+
+## Advantages
+
+* It is a free and easy to use app,accurate results,one stop place to get all the fitness related services.
+
+## Target Audience
+
+* Young generation-we beleive this generation keep them fit.
+
+## Marketing strategy
+
+* Websites,Social media handles,Paid advertisements.
+
+## How we built it
+
+* We used flutter for app development and frontend simultaneously we used firebase for our backend and ML.
+
+## Challenges we ran into
+
+* Creating an app
+* Working with ML for the first time
+
+## Accomplishments that were proud of
+
+* Tried and made basic features of the app.
+* Coordinated well with each other while trying to accomplish our goal.
+
+
+
 
 
 
