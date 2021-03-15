@@ -65,7 +65,19 @@ The source code of this project is written in **Flutter,Firebase,Java,Python**.
 * Tried and made basic features of the app.
 * Coordinated well with each other while trying to accomplish our goal.
 
+## Future features
 
+ 1)Flab-u-less Challenge: Take a scheduled fixed period challenge of the diet you have chosen 
+and get your dream body shape.
+2) Online dietitian and nutritionists 24*7 for getting diet that will suit you and for helping you 
+with the diet/nutrition problems
+3) #CollabWithMe: Ever heard the line competition is healthy? The app allows you to challenge 
+your friend with the same diet schedule to complete the challenge with you
+4) Want to stick to an exercise regime but too lazy to stick to it sometimes? Enroll for our 
+classes to make sure you don’t miss your exercise5)Makemyplaylist: Helps you to make a playlist for your exercise time so that you are motivated 
+enough to complete it all
+6) Makeithealthy: Love some food so much that you can’t avoid it. This app helps you to find 
+some healthy alternative way to create your favorite food at home without compromising your health because of it
 
 
 
